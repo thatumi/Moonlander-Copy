@@ -1,5 +1,7 @@
 # Prog-1-Hazi---Moonlander-
 
+https://github.com/thatumi/Prog-1-Hazi---Moonlander-/assets/49487499/d7aa1f32-e95a-419c-aa39-70ebf6a63111
+
 Egy Moonlander koppintás, amit Programozás alapjai 1 (BME-VIK) házinak adtam be. SDL 2 megléte kell az elindításhoz!!!
 
 ## Játékszabályok: 
@@ -11,6 +13,9 @@ feltételei a következők:
 - A leérkezés pillanatában nem lehet túl nagy a vízszintes irányú sebesség 
 - A leérkezés pillanatában nem lehet túl nagy a függőleges irányú sebesség. 
 - Ha elfogy az üzemanyag, a holdkomp lezuhan. 
+
+
+
 ## Nézetek: 
  Két fajta nézet van, a főmenü, ahol új játékot lehet indítani, vagy kilépni a 
 programból, és maga a játéknézet. A játéknézetbe a főmenüből, az új játék 
