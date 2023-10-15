@@ -407,14 +407,17 @@
 	<stdbool.h>
 	<stdio.h>
 
-1695696527 source:c:\users\tumi7\desktop\git gut\moonlander\main.c
+1697392636 source:c:\users\tumi7\desktop\git gut\moonlander\main.c
 	<SDL_ttf.h>
 	<SDL2_gfxPrimitives.h>
 	<stdlib.h>
 	<stdbool.h>
 	<stdio.h>
+	".\map.h"
 	"debugmalloc\debugmalloc.h"
 	".\render.h"
+	".\sdl.h"
+	".\spaceship.h"
 
 1636104047 c:\users\tumi7\desktop\git gut\moonlander\debugmalloc\debugmalloc.h
 	<stdbool.h>
@@ -427,14 +430,15 @@
 	<process.h>
 	<unistd.h>
 
-1639138802 c:\users\tumi7\desktop\git gut\moonlander\render.h
-
-1639138800 source:c:\users\tumi7\desktop\git gut\moonlander\render.c
+1697392533 c:\users\tumi7\desktop\git gut\moonlander\render.h
+	<SDL.h>
 	<SDL_ttf.h>
 	<SDL2_gfxPrimitives.h>
 	<stdlib.h>
 	<stdbool.h>
 	<stdio.h>
+
+1697392520 source:c:\users\tumi7\desktop\git gut\moonlander\render.c
 
 1695696588 f:\program files (x86)\codeblocks\mingw\include\sdl2\sdl_ttf.h
 	"SDL.h"
@@ -789,4 +793,36 @@
 1695696587 f:\program files (x86)\codeblocks\mingw\include\sdl2\sdl2_gfxprimitives.h
 	<math.h>
 	"SDL.h"
+
+1697382944 source:c:\users\tumi7\desktop\git gut\moonlander\mapstructure.c
+
+1697387975 source:c:\users\tumi7\desktop\git gut\moonlander\mappoint.c
+
+1697390551 c:\users\tumi7\desktop\git gut\moonlander\map.h
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL2_gfxPrimitives.h>
+
+1697390919 source:c:\users\tumi7\desktop\git gut\moonlander\map.c
+
+1697392350 c:\users\tumi7\desktop\git gut\moonlander\sdl.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL2_gfxPrimitives.h>
+
+1697392347 source:c:\users\tumi7\desktop\git gut\moonlander\sdl.c
+
+1697392623 source:c:\users\tumi7\desktop\git gut\moonlander\spaceship.c
+
+1697392656 c:\users\tumi7\desktop\git gut\moonlander\spaceship.h
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL2_gfxPrimitives.h>
+	".\map.h"
 
