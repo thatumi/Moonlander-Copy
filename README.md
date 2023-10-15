@@ -2,7 +2,7 @@
 
 https://github.com/thatumi/Prog-1-Hazi---Moonlander-/assets/49487499/e40015c0-50f5-4d25-9e44-2f8140743f2f
 
-A Moonlander clone submitted as homework for Fundamentals of Programming 1. 
+A Moonlander clone submitted as homework for Basics of Programming 1. 
 
 SDL 2 is required for the program to run.
 
