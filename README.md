@@ -1,6 +1,6 @@
 # Basics of Programming 1 (Budapest University of Technology and Economics) Homework
 
-https://github.com/thatumi/Prog-1-Hazi---Moonlander-/assets/49487499/2fa85bce-5684-49d2-813a-bd85350662fc
+https://github.com/thatumi/Prog-1-Hazi---Moonlander-/assets/49487499/e40015c0-50f5-4d25-9e44-2f8140743f2f
 
 A Moonlander clone submitted as homework for Fundamentals of Programming 1. 
 
