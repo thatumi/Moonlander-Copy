@@ -4,7 +4,7 @@ https://github.com/thatumi/Prog-1-Hazi---Moonlander-/assets/49487499/e40015c0-50
 
 A Moonlander clone submitted as homework for Basics of Programming 1. 
 
-SDL 2 is required for the program to run.
+** SDL 2 is required for the program to run. **
 
 ## Game Rules: 
 In the game, the user controls a spaceship. The goal of the game is for the player to successfully land while navigating their spaceship. The conditions for a successful landing are as follows:
