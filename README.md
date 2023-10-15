@@ -1,37 +1,26 @@
-# Prog-1-Hazi---Moonlander-
+# Basics of Programming 1 (Budapest University of Technology and Economics) Homework
 
 https://github.com/thatumi/Prog-1-Hazi---Moonlander-/assets/49487499/2fa85bce-5684-49d2-813a-bd85350662fc
 
-Egy Moonlander koppintás, amit Programozás alapjai 1 (BME-VIK) házinak adtam be. SDL 2 megléte kell az elindításhoz!!!
+A Moonlander clone submitted as homework for Fundamentals of Programming 1 (BME-VIK). 
 
-## Játékszabályok: 
- A játékban a felhasználó egy űrhajót irányít. A játék célja, hogy a játékos 
-megfelelően le tudjon szállni, miközben az űrhajóját navigálja. A sikeres leszállás 
-feltételei a következők: 
- - Nem szabad ferde terepre leszállni. 
-- Bekapcsolt hajtóművel nem szabad túl közel kerülni a talajhoz. 
-- A leérkezés pillanatában nem lehet túl nagy a vízszintes irányú sebesség 
-- A leérkezés pillanatában nem lehet túl nagy a függőleges irányú sebesség. 
-- Ha elfogy az üzemanyag, a holdkomp lezuhan. 
+SDL 2 is required for the program to run.
+
+## Game Rules: 
+In the game, the user controls a spaceship. The goal of the game is for the player to successfully land while navigating their spaceship. The conditions for a successful landing are as follows:
+- Do not land on uneven terrain.
+- Do not get too close to the ground with the thrusters on.
+- At the moment of landing, the horizontal speed should not be too high.
+- At the moment of landing, the vertical speed should not be too high.
+- If you run out of fuel, the spaceship crashes.
 
 
 
-## Nézetek: 
- Két fajta nézet van, a főmenü, ahol új játékot lehet indítani, vagy kilépni a 
-programból, és maga a játéknézet. A játéknézetbe a főmenüből, az új játék 
-indításával lehet eljutni. A játék indulásakor eleve a főmenübe érkezünk, illetve az 
-elkezdett játék végén is ide jutunk el. 
-## Pálya: 
- Játék által generált 2D-s pályák vannak. Ezek a pályák hepehupások, viszont 
-minden esetben van egy leszállásra alkalmas sík felület. 
-Mentés: 
- A játékban nincs mentés, mivel a játékmenet hossza miatt nem lenne értelme. 
-## Irányítás/Bemenet: 
- Az űrhajót a jobbra, balra fel nyilakkal és a szóközzel lehet irányítani. A szóköz 
-a hajtóművet kikapcsolja, a felfele nyíl lenyomásával a hajtómű erősebben visz 
-felfele. A jobbra balra nyilakkal az oldalirányú gyorsulást lehet változtatni. 
+## Views: 
+There are two types of views: the main menu, where you can start a new game or exit the program, and the game view itself. You can access the game view from the main menu by starting a new game. 
+## Map: 
+The game features generated 2D terrains. These terrains are uneven, but there is always a flat surface suitable for landing.
+## Controls/Input: 
+You can control the spaceship using the right and left arrow keys and the spacebar. The spacebar turns off the thrusters, pressing the up arrow increases the thrust. The right and left arrow keys adjust the lateral acceleration.
 ## HUD: 
- A játéknézetben jobb felül helyezkedik el az űrhajó műszerfala, ahol láthatjuk 
-az űrhajó magasságát, az x és y irányú gyorsaságát, az üzemanyagszintet, valamint 
-a kontaktfényt, ami jelzi, hogy elég közel vagyunk-e már a talajhoz, hogy a 
-hajtóművet ki lehessen kapcsolni.
+In the game view, the spaceship's dashboard is located in the upper right, where you can see the spaceship's altitude, horizontal and vertical speeds, fuel level, and the contact light, which indicates whether you are close enough to the ground to turn off the thrusters.
