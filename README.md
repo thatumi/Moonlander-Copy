@@ -2,7 +2,7 @@
 
 https://github.com/thatumi/Prog-1-Hazi---Moonlander-/assets/49487499/2fa85bce-5684-49d2-813a-bd85350662fc
 
-A Moonlander clone submitted as homework for Fundamentals of Programming 1 (BME-VIK). 
+A Moonlander clone submitted as homework for Fundamentals of Programming 1. 
 
 SDL 2 is required for the program to run.
 
@@ -21,6 +21,6 @@ There are two types of views: the main menu, where you can start a new game or e
 ## Map: 
 The game features generated 2D terrains. These terrains are uneven, but there is always a flat surface suitable for landing.
 ## Controls/Input: 
-You can control the spaceship using the right and left arrow keys and the spacebar. The spacebar turns off the thrusters, pressing the up arrow increases the thrust. The right and left arrow keys adjust the lateral acceleration.
+You can control the spaceship using the right and left arrow keys and the spacebar. The spacebar turns off the thrusters, pressing the up arrow increases the thrust. The right and left arrow keys adjust the lateral acceleration. You can save the map with key F5, and load it with F9.
 ## HUD: 
 In the game view, the spaceship's dashboard is located in the upper right, where you can see the spaceship's altitude, horizontal and vertical speeds, fuel level, and the contact light, which indicates whether you are close enough to the ground to turn off the thrusters.
